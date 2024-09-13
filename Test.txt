@@ -1,4 +1,0 @@
-Hola
-
-Estoy probando crear cosas usando vim...
-
